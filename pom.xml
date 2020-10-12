@@ -15,22 +15,25 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
   <modules>
     <module>AddFibonacciNumbers</module>
+    <module>Admission</module>
     <module>ArmstrongNumber</module>
     <module>CalculatePi</module>
     <module>CodechefQuestions</module>
     <module>DynamicProgramming</module>
     <module>FindMinimumInRotatedSortedArray</module>
     <module>FindPrime</module>
+    <module>KickStart2019</module>
     <module>LeetCodeSolutions</module>
     <module>MatrixOperations</module>
     <module>OTPGenerator</module>
     <module>PalindromeChecking</module>
+    <module>Pangram</module>
     <module>PassGenerator</module>
     <module>PasswordValidationInJava</module>
     <module>PermutationOfString</module>
@@ -39,10 +42,9 @@
     <module>SortingAlgorithms</module>
     <module>TowersOfHanoi</module>
     <module>Tree</module>
-    <module>Admission</module>
-    <module>KickStart2019</module>
     <module>NoMatcher</module>
     <module>Zomcav</module>
+    <module>Stacks</module>
   </modules>
 
   <distributionManagement>
